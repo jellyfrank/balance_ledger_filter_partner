@@ -1,4 +1,4 @@
-# balance_ledger_filter_partner
+# Add partner filter to partner ledger report.
 
 add partner filter to the partner balance ledger report
 
